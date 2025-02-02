@@ -1,3 +1,6 @@
+"""
+This script demonstrates a basic program to manage tasks in a to-do list.
+"""
 
 from typing import List
 
